@@ -15,11 +15,11 @@ In this case study, we observed that the average **consumption** of poultry (21.
 
 But is this observed result **statistically significant**? A **permutation test** will help us assess it.
 
-H0 = avg poultry consumption = avg fish consumption 
-H1 = avg poultry consumption > avg fish consumption 
+*H0 = avg poultry consumption = avg fish consumption*
+*H1 = avg poultry consumption > avg fish consumption*
 
 ## The results :mag:
 
-- Through the permutation test, we are able to reject the null hypothesis that the average poultry consumption is equal to the average fish consumption.
+- Through the permutation test, we are able to **reject the null hypothesis** that the average poultry consumption is equal to the average fish consumption.
 
-- This means that the our initially observed result (average poultry consumption is higher than fish consumption) is statistically significant.
+- This means that the **our initially observed result (average poultry consumption is higher than fish consumption) is statistically significant**.
